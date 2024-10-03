@@ -1,4 +1,4 @@
-## Bienvenu dans le répertoire **Wanabi Data class** :wave:
+## Bienvenue dans le répertoire **Wanabi Data class** :wave:
 ![image](https://github.com/user-attachments/assets/2018f050-4010-40f5-a330-61afdc2a027f)
 
 Ce répertoire permet d'accéder aux données et aux scripts permettant d'illustrer le cours **Collecte de données à grande échelle sur les invasions biologiques**. 
