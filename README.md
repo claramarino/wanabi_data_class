@@ -16,6 +16,9 @@ Le répertoire est organisé comme suit :
 
 - [`figures/`](https://github.com/claramarino/wanabi_data_class/main/figures):
   contains the figures used to validate et visualize the outputs.
+  
+- [`R/`](https://github.com/claramarino/wanabi_data_class/main/R):
+  contains the functions designed for the analyses.
 
 ## Installation
 
